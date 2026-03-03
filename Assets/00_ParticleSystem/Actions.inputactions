@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Actions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "5c97da2a-e8d1-4b18-b08c-efa8fa63d2db",
+            "actions": [
+                {
+                    "name": "Burst",
+                    "type": "Button",
+                    "id": "5607c3e5-04b3-4521-81b6-dd100a1b8981",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cf6094fe-f903-4a04-97dc-238b59848941",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Burst",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
