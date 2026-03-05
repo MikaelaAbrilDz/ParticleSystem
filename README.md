@@ -2,7 +2,7 @@
 
 ## How does it work
 When pressing the spacebar, it spawns a burst of particles.
-## Classes done
+## Classes used
 #### Particle Controller
 Spawner and manager of the particles. It instantates a particle prefab and gives it values to its paremeters.
 It does it using a base value for the parameter and a variation value. Then it gives a normal distribution using those values to get the final value for the parameter.
